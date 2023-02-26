@@ -1,0 +1,8 @@
+{
+  "name": "@sabashavidze/my-package",
+  "version": "1.0.1",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ]
+}
