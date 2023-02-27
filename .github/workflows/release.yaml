@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 📚 checkout
-        uses: actions/checkout@v2.1.1
+        uses: actions/checkout@v2
         env:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: "true"
       - name: 🟢 node
